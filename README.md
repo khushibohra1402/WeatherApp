@@ -5,7 +5,7 @@ Technologies Used
 ->HTML5
 ->CSS3
 ->JavaScript
-->API: OpenWeatherMap (https://openweathermap.org/api)
+->API: WeatherApi (https://www.weatherapi.com/)
 
 Usage
 ->Enter the name of a city in the search bar.
@@ -13,8 +13,8 @@ Usage
 ->View the current weather details including temperature, description, humidity, and wind speed.
 
 Acknowledgements
-Weather data provided by OpenWeatherMap.
-Icons by FontAwesome.
+->Weather data provided by weatherapi.
+->Icons by FontAwesome.
 
 ![image](https://github.com/user-attachments/assets/e0248865-c3b0-4755-8171-be25279ec388)
 
